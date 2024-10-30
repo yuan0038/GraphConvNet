@@ -1,4 +1,4 @@
-![image](./fig/grapgconvnet.png)
+![image](./fig/graphconvnet.png)
 
 ## Requirements
 
