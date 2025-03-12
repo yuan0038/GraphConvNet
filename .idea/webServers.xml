@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="20c915d3-2b38-4078-9c2c-3639bae11f2d" name="GraphConvNet">
+        <fileTransfer rootFolder="/workplace/lzy/graphconvnet" accessType="SFTP" host="dpn.vipserver.ddwtop.team" port="2333" sshConfigId="a0495799-2502-4f00-b3d4-e9a4d55674a6" sshConfig="4090(CQUPT)">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

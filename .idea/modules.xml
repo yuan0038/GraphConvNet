@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DynamicViG/.idea/DynamicViG.iml" filepath="$PROJECT_DIR$/../DynamicViG/.idea/DynamicViG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GraphConvNet_extended.iml" filepath="$PROJECT_DIR$/.idea/GraphConvNet_extended.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WiGNet-main/.idea/WiGNet-main.iml" filepath="$PROJECT_DIR$/../WiGNet-main/.idea/WiGNet-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../viz_gnn/.idea/viz_gnn.iml" filepath="$PROJECT_DIR$/../viz_gnn/.idea/viz_gnn.iml" />
+    </modules>
+  </component>
+</project>
