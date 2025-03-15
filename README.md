@@ -8,7 +8,7 @@
 
 ## Create conda environment
 ```bash
-conda env create -f env_wignet.yml  
+conda env create -f ./env_gcnet.yml  
 ```
 ```bash
 conda activate gcnet
