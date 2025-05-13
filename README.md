@@ -1,3 +1,4 @@
+# Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image
 <div align="center">
   <img src="./fig/graphconvnet.png" alt="GraphConvNet" width="80%">
   
@@ -6,6 +7,15 @@
   </p>
 </div>
 
+## Introduction
+
+This repository contains the official implementation of our paper:
+
+**Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image**
+ Z. Li, D. Dai and T. Yi
+ *2024 7th International Conference on Data Science and Information Technology (DSIT), Nanjing, China, 2024, pp. 1-7*
+ [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10880864) | DOI: 10.1109/DSIT61374.2024.10880864
+ 
 ## Create conda environment
 ```bash
 conda env create -f ./env_gcnet.yml  
@@ -108,6 +118,20 @@ The third row: add edges, the pentagram is the most discriminative node.(you can
     </tr>
   </table>
 </div>
+## Citation
 
+If you find this work useful for your research, please cite our paper:
+
+```<BIBTEX>
+@INPROCEEDINGS{10880864,
+  author={Li, Zixuan and Dai, Donghai and Yi, Tieliang},
+  booktitle={2024 7th International Conference on Data Science and Information Technology (DSIT)}, 
+  title={Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image}, 
+  year={2024},
+  pages={1-7},
+  doi={10.1109/DSIT61374.2024.10880864}
+}
+``` 
 ## Acknowledgement
+
 This repo partially uses code from [vig](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/vig_pytorch)
