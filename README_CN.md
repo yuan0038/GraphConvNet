@@ -1,3 +1,4 @@
+# Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image
 <div align="center">
   <img src="./fig/graphconvnet.png" alt="GraphConvNet" width="80%">
   
@@ -5,6 +6,15 @@
     <a href="README.md">English</a> | <span><strong>中文</strong></span>
   </p>
 </div>
+
+## 介绍
+
+这个仓库包含了我们论文的官方实现：
+
+**Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image**
+ Z. Li, D. Dai and T. Yi
+ *2024 7th International Conference on Data Science and Information Technology (DSIT), Nanjing, China, 2024, pp. 1-7*
+ [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10880864) | DOI: 10.1109/DSIT61374.2024.10880864
 
 ## 创建 conda 环境
 ```bash
@@ -109,5 +119,17 @@ source run.sh
   </table>
 </div>
 
+## 引用
+如果您发现本工作对您的研究有用，请引用我们的论文：
+```
+@INPROCEEDINGS{10880864,
+  author={Li, Zixuan and Dai, Donghai and Yi, Tieliang},
+  booktitle={2024 7th International Conference on Data Science and Information Technology (DSIT)}, 
+  title={Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image}, 
+  year={2024},
+  pages={1-7},
+  doi={10.1109/DSIT61374.2024.10880864}
+}
+```
 ## 致谢
 本仓库部分使用了 [vig](https://github.com/huawei-noah/Efficient-AI-Backbones/tree/master/vig_pytorch) 的代码
