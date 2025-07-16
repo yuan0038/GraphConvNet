@@ -125,7 +125,7 @@ If you find this work useful for your research, please cite our paper:
 
 ```<BIBTEX>
 @INPROCEEDINGS{10880864,
-  author={Li, Zixuan and Dai, Donghai and Yi, Tieliang},
+  author={Li Zhanyuan, Dai Dawei, Yi Tong},
   booktitle={2024 7th International Conference on Data Science and Information Technology (DSIT)}, 
   title={Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image}, 
   year={2024},
