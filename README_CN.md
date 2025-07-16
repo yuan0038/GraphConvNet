@@ -123,7 +123,7 @@ source run.sh
 如果您发现本工作对您的研究有用，请引用我们的论文：
 ```
 @INPROCEEDINGS{10880864,
-  author={Li, Zixuan and Dai, Donghai and Yi, Tieliang},
+  author={Li Zhanyuan, Dai Dawei, Yi Tong},
   booktitle={2024 7th International Conference on Data Science and Information Technology (DSIT)}, 
   title={Hierarchical Convolution and Graph Net for Utilizing Structural Information of Image}, 
   year={2024},
